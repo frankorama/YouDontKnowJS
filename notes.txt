@@ -1,0 +1,5 @@
+Installed bower globally via NPM
+
+Installed bootstrap via bower
+    $ bower init (to create bower.json file)
+    $ bower install bootstrap --save (to update bower.json file)

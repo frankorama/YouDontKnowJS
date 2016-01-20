@@ -1,0 +1,23 @@
+{
+  "name": "YouDontKnowJs",
+  "description": "You don't know JS examples",
+  "main": "",
+  "authors": [
+    "Francois Laforge <francois.laforge@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/frankorama/YouDontKnowJs",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
